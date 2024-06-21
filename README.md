@@ -9,7 +9,7 @@ combines the 2 input images and saves at the desired file-path.
 - `pathlib.Path`
 
 ### Inputs:
-<p style="color:red; font-weight:bold;">Note: these must be manually typed into the main method before running the code, <i>with the exception of the type of combination</i>. I know that ideally I should use an argparser to pass these file paths, but that's a future improvement, as I don't currently know how to do so.</p>
+<p style="color:red; font-weight:bold;">Note: these must be manually typed into the main method before running the code, with the exception of the type of combination. I know that ideally I should use an argparser to pass these file paths, but that's a future improvement, as I don't currently know how to do so.</p>
 
 - 2 input image filepaths (s1 and s2)
 - 1 output image filepath (outs)
